@@ -1,0 +1,21 @@
+vendor_id,vendor_name,region,category,status
+1,Zuniga LLC,New Mexico,Electronics,Inactive
+2,Wilson-Robinson,Hawaii,Food,Active
+3,"Jones, Bailey and Vasquez",,Electronics,Inactive
+4,"Wright, Martinez and Barnett",Idaho,Clothing,Inactive
+5,Moore Ltd,Maryland,Office Supplies,Active
+6,Rogers LLC,Iowa,Food,Inactive
+7,"Hernandez, Johnson and Stafford",Mississippi,Clothing,Inactive
+8,"Graham, Brown and Thomas",Utah,Electronics,Active
+9,"Miller, Howard and Galvan",New York,Office Supplies,Active
+10,"Johnson, Williams and Smith",Texas,Office Supplies,Active
+11,Perez-Perez,Kentucky,Office Supplies,Active
+12,Doyle-Mann,Tennessee,Clothing,Inactive
+13,Harris PLC,Pennsylvania,Office Supplies,Active
+14,Patton-Dennis,Texas,Food,Inactive
+15,Richardson-Campbell,,Office Supplies,Inactive
+16,Middleton Inc,North Carolina,Office Supplies,Active
+17,Wilson PLC,Connecticut,Electronics,Inactive
+18,"Taylor, Ortiz and Barker",New Hampshire,Clothing,Inactive
+19,Powell-Thomas,New York,Clothing,Inactive
+20,"Frazier, Briggs and Woodward",Montana,Food,Active

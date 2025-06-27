@@ -1,0 +1,106 @@
+customer_id,customer_name,region,customer_type
+1,"Koch, Brown and Smith",Mississippi,Retail
+2,"Valenzuela, Hoffman and Turner",Florida,Retail
+3,Moore Inc,Michigan,Retail
+4,Curtis-Clay,Alabama,Retail
+5,Webb-James,Michigan,Wholesale
+6,Wilson PLC,Pennsylvania,Retail
+7,Smith Ltd,Pennsylvania,Retail
+8,"Peterson, Sanchez and Carroll",Washington,Wholesale
+9,Hall Group,Montana,Wholesale
+10,Koch PLC,Illinois,Wholesale
+11,Lopez-Sampson,Vermont,Wholesale
+12,Weaver LLC,Oklahoma,Wholesale
+13,"Barnes, Richardson and Duran",South Carolina,Wholesale
+14,Simon Ltd,Virginia,Wholesale
+15,Martin LLC,New Jersey,Wholesale
+16,Cline Inc,South Dakota,Retail
+17,Willis-Garcia,Alabama,Retail
+18,Pugh-Thompson,Maryland,Wholesale
+19,Peterson-Shaw,Massachusetts,Wholesale
+20,Cook-Love,North Dakota,Retail
+21,"Bowers, Smith and Chambers",Oklahoma,Retail
+22,Myers PLC,New York,Retail
+23,Hall LLC,Massachusetts,Retail
+24,Rios-Esparza,New York,Wholesale
+25,Walsh-Flores,Louisiana,Retail
+26,"Larsen, Juarez and Pope",Delaware,Wholesale
+27,Joseph Group,Indiana,Wholesale
+28,"Salazar, Morris and Lee",Idaho,Wholesale
+29,"Parks, Flores and Stafford",Texas,Retail
+30,Osborn LLC,Georgia,Retail
+31,Leonard-Carpenter,Iowa,Retail
+32,Vaughn PLC,Maine,Wholesale
+33,"Medina, Smith and Morales",Missouri,Wholesale
+34,Parsons-Ellis,Iowa,Wholesale
+35,"Chambers, Clark and Dixon",South Dakota,Wholesale
+36,Smith-Newman,Washington,Retail
+37,"Roth, Ryan and Peterson",Oklahoma,Wholesale
+38,Hancock Inc,Kentucky,Retail
+39,"Johnson, Dominguez and King",Idaho,Wholesale
+40,Krueger Group,Louisiana,Wholesale
+41,Hawkins-Moreno,Colorado,Wholesale
+42,Porter and Sons,Connecticut,Retail
+43,Mcclain-Payne,Michigan,Retail
+44,Harrison LLC,Utah,Retail
+45,Banks-Neal,Ohio,Retail
+46,"Thompson, Smith and Davis",Alabama,Retail
+47,Mendez-Tucker,New Jersey,Wholesale
+48,Maxwell PLC,Louisiana,Retail
+49,Lopez-Cooper,Delaware,Retail
+50,Davis-Strong,Connecticut,Retail
+51,"Dyer, Brown and Dickerson",Missouri,Wholesale
+52,Miller Ltd,Maryland,Retail
+53,"Ramos, Franklin and Martin",Maryland,Retail
+54,"Cox, Lopez and Evans",Ohio,Wholesale
+55,Hall LLC,Maryland,Wholesale
+56,Brown LLC,South Carolina,Wholesale
+57,"Gregory, Gibbs and Allen",New Mexico,Wholesale
+58,King-Saunders,New Jersey,Wholesale
+59,"Tran, Navarro and Hart",Maine,Wholesale
+60,Woods and Sons,Kansas,Retail
+61,Ramirez Inc,Louisiana,Retail
+62,"Brown, Strong and King",Ohio,Retail
+63,Roberts-Russell,Montana,Wholesale
+64,"Cook, Mullen and Briggs",Georgia,Wholesale
+65,Wright-Jackson,Montana,Retail
+66,"Best, Silva and Miller",Illinois,Wholesale
+67,"Jones, Williams and Riggs",Texas,Retail
+68,Hamilton-Peters,New York,Wholesale
+69,"Davis, Patterson and Rodriguez",Maine,Wholesale
+70,"Cole, Valencia and Dean",Arizona,Wholesale
+71,Garza Inc,Connecticut,Retail
+72,Richardson and Sons,Arizona,Wholesale
+73,Phillips Group,Arizona,Wholesale
+74,Miranda-Bowman,Ohio,Retail
+75,Lane-Lopez,Tennessee,Retail
+76,"Williams, Johnson and Wright",Oklahoma,Retail
+77,Nelson-Hill,Texas,Retail
+78,Walsh-Graham,Kentucky,Retail
+79,Hill-Miller,Mississippi,Retail
+80,Rodriguez and Sons,Montana,Wholesale
+81,Johnson and Sons,Rhode Island,Retail
+82,"Campos, Ramos and Arroyo",North Dakota,Retail
+83,"Miller, Mcpherson and Smith",Kansas,Retail
+84,Collier Ltd,Idaho,Retail
+85,Jones and Sons,Illinois,Retail
+86,Mendoza LLC,New Jersey,Wholesale
+87,Montoya Ltd,California,Wholesale
+88,Reyes and Sons,Michigan,Retail
+89,Villarreal-Flynn,Michigan,Retail
+90,Delgado Group,New Jersey,Wholesale
+91,King Group,Florida,Retail
+92,Wilson LLC,Pennsylvania,Wholesale
+93,Hancock Inc,Utah,Wholesale
+94,"Lewis, Ibarra and Miles",New Jersey,Wholesale
+95,Odom-Wright,Wyoming,Wholesale
+96,Oconnor-Allen,New Jersey,Wholesale
+97,"Smith, Ward and Williams",Pennsylvania,Retail
+98,"Fisher, Stone and Aguilar",Oregon,Retail
+99,Berry-Jones,Utah,Wholesale
+100,"Trujillo, James and Tran",Hawaii,Retail
+81,Johnson and Sons,Rhode Island,Retail
+85,Jones and Sons,Illinois,Retail
+34,Parsons-Ellis,Iowa,Wholesale
+82,"Campos, Ramos and Arroyo",North Dakota,Retail
+94,"Lewis, Ibarra and Miles",New Jersey,Wholesale
