@@ -16,27 +16,23 @@ Copy code
 ## How to Run
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/CassidyReyes77/ERP-Data-Simulation-Project.git
    cd ERP-Data-Simulation-Project
-Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Generate and load data:
+2. Install dependencies:
 
-bash
-Copy code
-python Scripts/generate_data.py
-python Scripts/load_data_to_db.py
-Run data audit:
+   pip install -r requirements.txt
 
-bash
-Copy code
-python Scripts/audit_clean.py
-Launch dashboard:
+3. Generate and load data:
 
-bash
-Copy code
-streamlit run Scripts/dashboard.py
+   python Scripts/generate_data.py
+   python Scripts/load_data_to_db.py
+
+4. Run data audit:
+
+   python Scripts/audit_clean.py
+
+5. Launch dashboard:
+
+   streamlit run Scripts/dashboard.py
