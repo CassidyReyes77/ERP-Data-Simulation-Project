@@ -20,13 +20,14 @@ README.md - Project overview and instructions
 1. Clone the repository:
 
    git clone https://github.com/CassidyReyes77/ERP-Data-Simulation-Project.git
+   
    cd ERP-Data-Simulation-Project
 
-2. Install dependencies:
+3. Install dependencies:
 
    pip install -r requirements.txt
 
-3. Generate and load data:
+4. Generate and load data:
 
    python Scripts/generate_data.py
    
