@@ -51,12 +51,29 @@ for item_id in range(1, NUM_ITEMS + 1):
 
 pricebook = pd.DataFrame(pricebook)
 
-# Introduce some data issues (for cleaning later)
+# Introduce data issues for cleaning later 
+print("🧪 Injecting data issues...")
+
 # Duplicates
-customers = pd.concat([customers, customers.sample(5, random_state=1)])
-# Nulls
-vendors.loc[vendors.sample(2).index, 'region'] = None
-items.loc[items.sample(2).index, 'vendor_id'] = None
+customers = pd.concat([customers, customers.sample(10, random_state=1)], ignore_index=True)
+vendors = pd.concat([vendors, vendors.sample(3, random_state=2)], ignore_index=True)
+
+# Nulls in key fields
+customers.loc[customers.sample(3, random_state=3).index, 'customer_id'] = None
+vendors.loc[vendors.sample(2, random_state=4).index, 'vendor_id'] = None
+items.loc[items.sample(3, random_state=5).index, 'item_id'] = None
+
+# Add missing regions again
+vendors.loc[vendors.sample(2, random_state=6).index, 'region'] = None
+customers.loc[customers.sample(2, random_state=7).index, 'region'] = None
+
+# Unlinked foreign keys: make up vendor_ids that don’t exist
+items.loc[items.sample(3, random_state=8).index, 'vendor_id'] = 9999  # assumes 9999 isn't a real ID
+
+# Inconsistent discounts
+bad_discounts = pricebook.sample(5, random_state=9).index
+pricebook.loc[bad_discounts, 'discount'] = np.round(np.random.uniform(0.91, 1.0, 5), 2)
+
 
 # Export to CSV
 customers.to_csv('customers.csv', index=False)

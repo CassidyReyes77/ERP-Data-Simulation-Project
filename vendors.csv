@@ -1,21 +1,24 @@
 vendor_id,vendor_name,region,category,status
-1,Zuniga LLC,New Mexico,Electronics,Inactive
-2,Wilson-Robinson,Hawaii,Food,Active
-3,"Jones, Bailey and Vasquez",,Electronics,Inactive
-4,"Wright, Martinez and Barnett",Idaho,Clothing,Inactive
-5,Moore Ltd,Maryland,Office Supplies,Active
-6,Rogers LLC,Iowa,Food,Inactive
-7,"Hernandez, Johnson and Stafford",Mississippi,Clothing,Inactive
-8,"Graham, Brown and Thomas",Utah,Electronics,Active
-9,"Miller, Howard and Galvan",New York,Office Supplies,Active
-10,"Johnson, Williams and Smith",Texas,Office Supplies,Active
-11,Perez-Perez,Kentucky,Office Supplies,Active
-12,Doyle-Mann,Tennessee,Clothing,Inactive
-13,Harris PLC,Pennsylvania,Office Supplies,Active
-14,Patton-Dennis,Texas,Food,Inactive
-15,Richardson-Campbell,,Office Supplies,Inactive
-16,Middleton Inc,North Carolina,Office Supplies,Active
-17,Wilson PLC,Connecticut,Electronics,Inactive
-18,"Taylor, Ortiz and Barker",New Hampshire,Clothing,Inactive
-19,Powell-Thomas,New York,Clothing,Inactive
-20,"Frazier, Briggs and Woodward",Montana,Food,Active
+1.0,"Hunter, Mccullough and Johnson",Kentucky,Office Supplies,Inactive
+2.0,"Daniel, Robertson and Wallace",Florida,Office Supplies,Active
+3.0,"Pearson, Mendez and Moore",New Jersey,Food,Active
+4.0,"Fisher, Ayers and Long",New York,Food,Active
+5.0,Jenkins PLC,Ohio,Electronics,Inactive
+6.0,Russell PLC,Nebraska,Clothing,Active
+7.0,"Walker, Fleming and Jackson",Iowa,Food,Inactive
+8.0,Wagner-Davis,,Electronics,Inactive
+9.0,"Bryant, Carr and Villa",Colorado,Food,Active
+10.0,"Diaz, Lozano and Miller",Michigan,Office Supplies,Inactive
+11.0,"Hernandez, Anderson and Schwartz",Hawaii,Office Supplies,Active
+12.0,Galvan Group,Virginia,Electronics,Inactive
+13.0,Soto-Taylor,New Jersey,Clothing,Active
+14.0,Murray-Johnson,South Dakota,Food,Active
+15.0,Santiago-Reyes,Washington,Electronics,Active
+16.0,"Lawson, Chang and Padilla",Alabama,Electronics,Active
+17.0,"Jackson, Johnson and Grant",Georgia,Food,Active
+18.0,Meyers-Walker,Iowa,Office Supplies,Inactive
+19.0,Phelps-Wiley,Illinois,Food,Active
+20.0,"Greer, Hall and Foster",Oregon,Electronics,Inactive
+,Soto-Taylor,,Clothing,Active
+,Jenkins PLC,Ohio,Electronics,Inactive
+19.0,Phelps-Wiley,Illinois,Food,Active

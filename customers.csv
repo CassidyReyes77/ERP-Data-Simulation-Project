@@ -1,106 +1,111 @@
 customer_id,customer_name,region,customer_type
-1,"Koch, Brown and Smith",Mississippi,Retail
-2,"Valenzuela, Hoffman and Turner",Florida,Retail
-3,Moore Inc,Michigan,Retail
-4,Curtis-Clay,Alabama,Retail
-5,Webb-James,Michigan,Wholesale
-6,Wilson PLC,Pennsylvania,Retail
-7,Smith Ltd,Pennsylvania,Retail
-8,"Peterson, Sanchez and Carroll",Washington,Wholesale
-9,Hall Group,Montana,Wholesale
-10,Koch PLC,Illinois,Wholesale
-11,Lopez-Sampson,Vermont,Wholesale
-12,Weaver LLC,Oklahoma,Wholesale
-13,"Barnes, Richardson and Duran",South Carolina,Wholesale
-14,Simon Ltd,Virginia,Wholesale
-15,Martin LLC,New Jersey,Wholesale
-16,Cline Inc,South Dakota,Retail
-17,Willis-Garcia,Alabama,Retail
-18,Pugh-Thompson,Maryland,Wholesale
-19,Peterson-Shaw,Massachusetts,Wholesale
-20,Cook-Love,North Dakota,Retail
-21,"Bowers, Smith and Chambers",Oklahoma,Retail
-22,Myers PLC,New York,Retail
-23,Hall LLC,Massachusetts,Retail
-24,Rios-Esparza,New York,Wholesale
-25,Walsh-Flores,Louisiana,Retail
-26,"Larsen, Juarez and Pope",Delaware,Wholesale
-27,Joseph Group,Indiana,Wholesale
-28,"Salazar, Morris and Lee",Idaho,Wholesale
-29,"Parks, Flores and Stafford",Texas,Retail
-30,Osborn LLC,Georgia,Retail
-31,Leonard-Carpenter,Iowa,Retail
-32,Vaughn PLC,Maine,Wholesale
-33,"Medina, Smith and Morales",Missouri,Wholesale
-34,Parsons-Ellis,Iowa,Wholesale
-35,"Chambers, Clark and Dixon",South Dakota,Wholesale
-36,Smith-Newman,Washington,Retail
-37,"Roth, Ryan and Peterson",Oklahoma,Wholesale
-38,Hancock Inc,Kentucky,Retail
-39,"Johnson, Dominguez and King",Idaho,Wholesale
-40,Krueger Group,Louisiana,Wholesale
-41,Hawkins-Moreno,Colorado,Wholesale
-42,Porter and Sons,Connecticut,Retail
-43,Mcclain-Payne,Michigan,Retail
-44,Harrison LLC,Utah,Retail
-45,Banks-Neal,Ohio,Retail
-46,"Thompson, Smith and Davis",Alabama,Retail
-47,Mendez-Tucker,New Jersey,Wholesale
-48,Maxwell PLC,Louisiana,Retail
-49,Lopez-Cooper,Delaware,Retail
-50,Davis-Strong,Connecticut,Retail
-51,"Dyer, Brown and Dickerson",Missouri,Wholesale
-52,Miller Ltd,Maryland,Retail
-53,"Ramos, Franklin and Martin",Maryland,Retail
-54,"Cox, Lopez and Evans",Ohio,Wholesale
-55,Hall LLC,Maryland,Wholesale
-56,Brown LLC,South Carolina,Wholesale
-57,"Gregory, Gibbs and Allen",New Mexico,Wholesale
-58,King-Saunders,New Jersey,Wholesale
-59,"Tran, Navarro and Hart",Maine,Wholesale
-60,Woods and Sons,Kansas,Retail
-61,Ramirez Inc,Louisiana,Retail
-62,"Brown, Strong and King",Ohio,Retail
-63,Roberts-Russell,Montana,Wholesale
-64,"Cook, Mullen and Briggs",Georgia,Wholesale
-65,Wright-Jackson,Montana,Retail
-66,"Best, Silva and Miller",Illinois,Wholesale
-67,"Jones, Williams and Riggs",Texas,Retail
-68,Hamilton-Peters,New York,Wholesale
-69,"Davis, Patterson and Rodriguez",Maine,Wholesale
-70,"Cole, Valencia and Dean",Arizona,Wholesale
-71,Garza Inc,Connecticut,Retail
-72,Richardson and Sons,Arizona,Wholesale
-73,Phillips Group,Arizona,Wholesale
-74,Miranda-Bowman,Ohio,Retail
-75,Lane-Lopez,Tennessee,Retail
-76,"Williams, Johnson and Wright",Oklahoma,Retail
-77,Nelson-Hill,Texas,Retail
-78,Walsh-Graham,Kentucky,Retail
-79,Hill-Miller,Mississippi,Retail
-80,Rodriguez and Sons,Montana,Wholesale
-81,Johnson and Sons,Rhode Island,Retail
-82,"Campos, Ramos and Arroyo",North Dakota,Retail
-83,"Miller, Mcpherson and Smith",Kansas,Retail
-84,Collier Ltd,Idaho,Retail
-85,Jones and Sons,Illinois,Retail
-86,Mendoza LLC,New Jersey,Wholesale
-87,Montoya Ltd,California,Wholesale
-88,Reyes and Sons,Michigan,Retail
-89,Villarreal-Flynn,Michigan,Retail
-90,Delgado Group,New Jersey,Wholesale
-91,King Group,Florida,Retail
-92,Wilson LLC,Pennsylvania,Wholesale
-93,Hancock Inc,Utah,Wholesale
-94,"Lewis, Ibarra and Miles",New Jersey,Wholesale
-95,Odom-Wright,Wyoming,Wholesale
-96,Oconnor-Allen,New Jersey,Wholesale
-97,"Smith, Ward and Williams",Pennsylvania,Retail
-98,"Fisher, Stone and Aguilar",Oregon,Retail
-99,Berry-Jones,Utah,Wholesale
-100,"Trujillo, James and Tran",Hawaii,Retail
-81,Johnson and Sons,Rhode Island,Retail
-85,Jones and Sons,Illinois,Retail
-34,Parsons-Ellis,Iowa,Wholesale
-82,"Campos, Ramos and Arroyo",North Dakota,Retail
-94,"Lewis, Ibarra and Miles",New Jersey,Wholesale
+1.0,Gonzalez PLC,Florida,Retail
+2.0,"Rios, Leonard and Alexander",Ohio,Wholesale
+3.0,"Williams, Wilson and Wallace",Washington,Wholesale
+4.0,Moss-Gutierrez,Ohio,Wholesale
+5.0,Bean-Williams,Washington,Retail
+6.0,Bates Inc,California,Retail
+,Collins and Sons,New Hampshire,Wholesale
+8.0,Allen-Clark,Connecticut,Wholesale
+9.0,"Carr, Barnett and Kirby",Louisiana,Retail
+10.0,"Mcdaniel, Long and Walton",Nevada,Retail
+11.0,"Smith, Hughes and Hull",Hawaii,Retail
+12.0,Vance and Sons,Oklahoma,Retail
+13.0,"Vargas, Terrell and West",Arkansas,Wholesale
+14.0,Compton and Sons,Illinois,Retail
+15.0,Hester Ltd,Missouri,Retail
+16.0,"Hansen, Dougherty and Morgan",South Dakota,Wholesale
+17.0,Ortiz Inc,Maine,Wholesale
+18.0,"Barrera, Parker and Olson",Michigan,Wholesale
+19.0,"Woods, Soto and Hamilton",Mississippi,Retail
+20.0,"Carroll, Gross and Bonilla",New York,Retail
+21.0,Bartlett Group,Delaware,Retail
+22.0,Howell-Rodriguez,North Carolina,Retail
+23.0,"Williams, Holland and Fowler",New Hampshire,Wholesale
+24.0,"Green, Murillo and Mckay",Idaho,Retail
+25.0,Hanson Inc,Iowa,Wholesale
+26.0,"Baker, Leach and Brown",Maine,Wholesale
+27.0,Davis-Williamson,Ohio,Retail
+28.0,Campbell Ltd,Alaska,Retail
+29.0,Marsh Inc,Nebraska,Retail
+30.0,Clark-Olsen,Connecticut,Retail
+31.0,Alexander and Sons,Idaho,Wholesale
+32.0,"Pena, Mendoza and Wright",Wisconsin,Wholesale
+33.0,Durham LLC,Wyoming,Wholesale
+34.0,Hicks-Garcia,New Hampshire,Wholesale
+35.0,Silva-Dickerson,Maine,Retail
+36.0,Mcdaniel-Stewart,Indiana,Retail
+37.0,"George, Potter and Ross",Wisconsin,Retail
+38.0,Perez Ltd,Arkansas,Retail
+39.0,"Owens, Cole and Armstrong",Utah,Wholesale
+40.0,"Farmer, Williams and Warren",Delaware,Wholesale
+41.0,Hawkins and Sons,New Jersey,Retail
+42.0,Miles-Riley,Utah,Retail
+43.0,Taylor Inc,Delaware,Retail
+44.0,"Smith, Smith and Smith",Massachusetts,Wholesale
+45.0,Robertson Inc,Maryland,Retail
+46.0,"West, Watson and Rios",Nevada,Wholesale
+47.0,Rojas-Kidd,Alaska,Retail
+48.0,Walters PLC,Maine,Wholesale
+49.0,Bishop-Parsons,South Dakota,Retail
+50.0,"Robinson, Fisher and Mendez",Tennessee,Wholesale
+51.0,Nelson-Brown,Indiana,Retail
+52.0,Anderson LLC,Louisiana,Retail
+53.0,"Johnson, Butler and Perez",,Retail
+54.0,Park LLC,Minnesota,Retail
+55.0,"Phillips, Griffith and Baker",Mississippi,Retail
+56.0,Jordan-Davis,New York,Wholesale
+57.0,Davis Group,Wisconsin,Retail
+58.0,Vang and Sons,New Mexico,Wholesale
+59.0,Chavez PLC,Montana,Wholesale
+60.0,Williams and Sons,Idaho,Retail
+61.0,"Hays, Lopez and Murphy",Wisconsin,Retail
+62.0,Edwards-Ruiz,Connecticut,Retail
+63.0,"Thompson, Robinson and Winters",Louisiana,Retail
+64.0,Bean-Stewart,Wyoming,Retail
+65.0,"Pena, Park and Jones",Minnesota,Retail
+66.0,Forbes Inc,Minnesota,Retail
+67.0,Johnson and Sons,Tennessee,Retail
+68.0,"Oliver, Simmons and Wagner",Nebraska,Retail
+69.0,Calhoun Group,South Dakota,Retail
+70.0,Ford-Walters,North Carolina,Retail
+71.0,Watts-Hale,Indiana,Retail
+72.0,Preston and Sons,Maine,Wholesale
+73.0,"Martin, Powers and Brown",Wisconsin,Retail
+74.0,"Webb, Mckinney and Powers",Idaho,Retail
+75.0,"Smith, Andrews and Reed",Mississippi,Retail
+76.0,Harris-Neal,Indiana,Wholesale
+77.0,Gross-Chapman,Kansas,Retail
+78.0,Kane Group,Rhode Island,Retail
+79.0,"Mendoza, Vasquez and Peterson",Tennessee,Retail
+80.0,Meza-Butler,Missouri,Retail
+81.0,"Wheeler, Johnson and Becker",Texas,Wholesale
+82.0,Davidson Group,New Hampshire,Retail
+83.0,Lewis PLC,North Carolina,Wholesale
+84.0,"Ramirez, Ayers and Johnson",New Jersey,Wholesale
+85.0,Maldonado-Marshall,Arkansas,Wholesale
+86.0,Robinson-Holmes,,Retail
+87.0,"Richardson, Davis and Rodgers",Georgia,Wholesale
+88.0,"Terrell, Watson and Carpenter",Colorado,Retail
+89.0,Scott-Reese,New Hampshire,Wholesale
+90.0,Moore-Austin,California,Wholesale
+91.0,Griffith PLC,Louisiana,Retail
+92.0,Riggs Group,Montana,Retail
+93.0,"Murphy, Parker and Reynolds",Arkansas,Retail
+94.0,Bentley LLC,Vermont,Wholesale
+95.0,"Turner, Bates and King",Utah,Wholesale
+96.0,"Welch, Williams and Tanner",Maryland,Retail
+97.0,"Huynh, Hill and Johnson",Nevada,Retail
+98.0,"Green, Knight and Archer",North Carolina,Retail
+99.0,Patterson Group,Maine,Wholesale
+100.0,Newman-Moon,California,Retail
+81.0,"Wheeler, Johnson and Becker",Texas,Wholesale
+85.0,Maldonado-Marshall,Arkansas,Wholesale
+,Hicks-Garcia,New Hampshire,Wholesale
+82.0,Davidson Group,New Hampshire,Retail
+94.0,Bentley LLC,Vermont,Wholesale
+,"Barrera, Parker and Olson",Michigan,Wholesale
+37.0,"George, Potter and Ross",Wisconsin,Retail
+83.0,Lewis PLC,North Carolina,Wholesale
+70.0,Ford-Walters,North Carolina,Retail
+66.0,Forbes Inc,Minnesota,Retail
