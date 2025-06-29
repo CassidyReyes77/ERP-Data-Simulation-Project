@@ -14,8 +14,6 @@ requirements.txt - Python dependencies
 
 README.md - Project overview and instructions
 
-bash
-Copy code
 
 ## How to Run
 
