@@ -27,12 +27,13 @@ Copy code
 3. Generate and load data:
 
    python Scripts/generate_data.py
+   
    python Scripts/load_data_to_db.py
 
-4. Run data audit:
+5. Run data audit:
 
    python Scripts/audit_clean.py
 
-5. Launch dashboard:
+6. Launch dashboard:
 
    streamlit run Scripts/dashboard.py
