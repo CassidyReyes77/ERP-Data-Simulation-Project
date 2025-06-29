@@ -40,3 +40,7 @@ README.md - Project overview and instructions
 6. Launch dashboard:
 
    streamlit run Scripts/dashboard.py
+
+7. Dashboard
+   
+    http://localhost:8501/
