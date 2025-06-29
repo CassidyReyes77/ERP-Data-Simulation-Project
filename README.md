@@ -5,9 +5,13 @@ This project simulates a basic ERP (Enterprise Resource Planning) system using s
 
 ## Project Structure
 Data/ - CSV data files (customers, vendors, items, pricebook)
+
 Database/ - SQLite database with loaded tables and audit log
+
 Scripts/ - Python scripts for data generation, loading, cleaning, and dashboarding
+
 requirements.txt - Python dependencies
+
 README.md - Project overview and instructions
 
 bash
