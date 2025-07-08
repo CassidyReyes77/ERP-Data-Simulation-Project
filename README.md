@@ -1,7 +1,7 @@
 # ERP Data Simulation Project
 
 ## Purpose
-This project simulates a basic ERP (Enterprise Resource Planning) system using synthetic data. It includes automated auditing of potential data issues and a Streamlit dashboard for visual reporting. It demonstrates skills in data generation, validation, and dashboarding using Python.
+This project simulates a basic ERP (Enterprise Resource Planning) system using synthetic data. It includes automated auditing of potential data issues and a Streamlit dashboard for visual reporting.
 
 ## Project Structure
 Data/ - CSV data files (customers, vendors, items, pricebook)
